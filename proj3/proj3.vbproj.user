@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ClientForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImageForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OwnerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OwnerListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OwnerPropertiesForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PropertyForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PropertyImageSlideForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PropertyListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TypeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
